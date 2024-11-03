@@ -43,7 +43,7 @@
           <div class="row justify-content-center">
             <div class="col-11 col-sm-9 col-lg-10 col-xxl-12 text-center"><img class="img-fluid px-6 px-xl-6 px-xxl-0 w-lg-100 w-sm-75" style="max-width: 100%;" src="assets/img/logo.png" alt="">
               <h1 class="fw-light mt-4 fs-2 fs-xl-4" style="font-family: iranFamily;">شرکت طراحی و توسعه <br>فناوری اطلاعات <span class="fw-bolder text-gradient-blue" style="letter-spacing: -0.125rem;">داده فراز</span></h1>
-              <div class="mt-lg-4"><a class="text-900 fw-bold px-2" href="tel:09146528873">تماس: 8873-652-0914</a><br><a class="text-primary fw-bold px-2" href="#contact">ارتباط با ما <svg class="svg-inline--fa fa-chevron-right fa-w-10" data-fa-transform="shrink-4 down-1.5" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg="" style="transform-origin: 0.3125em 0.59375em;"><g transform="translate(160 256)"><g transform="translate(0, 48)  scale(0.75, 0.75)  rotate(0 0 0)"><path fill="currentColor" d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z" transform="translate(-160 -256)"></path></g></g></svg><!-- <span class="fas fa-chevron-right" data-fa-transform="shrink-4 down-1.5"></span> Font Awesome fontawesome.com --></a></div>
+              <div class="mt-lg-4"><a class="text-900 fw-bold px-2" href="tel:09146528873">تماس: 8873-652-0914</a><br><a class="text-primary fw-bold px-2" href="#contact">ارتباط با ما <!-- <span class="fas fa-chevron-right" data-fa-transform="shrink-4 down-1.5"></span> Font Awesome fontawesome.com --></a></div>
             </div>
           </div>
         </div>
@@ -134,51 +134,33 @@
                     <div class="col-lg-11 col-xxl-9">
                       <div class="row justify-content-center">
                         <div class="col-6 mb-5">
-                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/1.jpg" width="242" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Alex Butler</h5>
-                            <h5 class="fw-normal text-800 mb-1">Fraud Manager</h5><a class="stretched-link" href="#!"></a>
+                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/1.png" width="242" alt="مدیر تبلیغات">
+                            <h5 class="fw-bold mt-3 mb-1">سجاد آفاق</h5>
+                            <h5 class="fw-normal text-800 mb-1">مدیر تبلیغات </h5><a class="stretched-link" href="#!"></a>
                           </div>
                         </div>
                         <div class="col-6 mb-5">
-                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/2.jpg" width="242" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Andreas Heim</h5>
-                            <h5 class="fw-normal text-800 mb-1">Software Engineer</h5><a class="stretched-link" href="#!"></a>
+                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/2.png" width="242" alt="">
+                            <h5 class="fw-bold mt-3 mb-1">مهدی موسی زاده</h5>
+                            <h5 class="fw-normal text-800 mb-1">طراح وب سایت</h5><a class="stretched-link" href="#!"></a>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-auto mb-5">
-                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/3.jpg" width="133" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Amanda Alleson</h5>
-                            <h5 class="fw-normal text-800 mb-1">UX Designer</h5><a class="stretched-link" href="#!"></a>
+                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/3.png" width="133" alt="">
+                            <h5 class="fw-bold mt-3 mb-1">عادل پارسا</h5>
+                            <h5 class="fw-normal text-800 mb-1">مدیر تیم برنامه نویسی</h5><a class="stretched-link" href="#!"></a>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-auto mb-5">
-                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/4.jpg" width="133" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Brandon Renfrow</h5>
-                            <h5 class="fw-normal text-800 mb-1">Developer</h5><a class="stretched-link" href="#!"></a>
+                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/4.png" width="133" alt="">
+                            <h5 class="fw-bold mt-3 mb-1">علیرضا آفاق</h5>
+                            <h5 class="fw-normal text-800 mb-1">مجری</h5><a class="stretched-link" href="#!"></a>
                           </div>
                         </div>
                         <div class="col-6 col-sm-4 col-auto mb-5">
                           <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/5.jpg" width="133" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Brian Childs</h5>
-                            <h5 class="fw-normal text-800 mb-1">Training Manager</h5><a class="stretched-link" href="#!"></a>
-                          </div>
-                        </div>
-                        <div class="col-6 col-sm-4 col-auto mb-5">
-                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/6.jpg" width="133" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Britney Muller</h5>
-                            <h5 class="fw-normal text-800 mb-1">SEO Scientist</h5><a class="stretched-link" href="#!"></a>
-                          </div>
-                        </div>
-                        <div class="col-6 col-sm-4 col-auto mb-5">
-                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/7.jpg" width="133" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Casey Coates</h5>
-                            <h5 class="fw-normal text-800 mb-1">Software Engineer</h5><a class="stretched-link" href="#!"></a>
-                          </div>
-                        </div>
-                        <div class="col-6 col-sm-4 col-auto mb-5">
-                          <div class="position-relative d-flex flex-center flex-column"><img class="img-fluid rounded-circle" src="Boots5/8.jpg" width="133" alt="">
-                            <h5 class="fw-bold mt-3 mb-1">Dana</h5>
-                            <h5 class="fw-normal text-800 mb-1">Bug Hunter</h5><a class="stretched-link" href="#!"></a>
+                            <h5 class="fw-bold mt-3 mb-1">نازلی موسی زاده</h5>
+                            <h5 class="fw-normal text-800 mb-1">عکاس تبلیغاتی</h5><a class="stretched-link" href="#!"></a>
                           </div>
                         </div>
                       </div>
@@ -191,8 +173,8 @@
                   <div class="card bg-backdrop">
                     <div class="card-body p-2 px-lg-2 px-xl-5">
                       <div class="py-5 text-center">
-                        <h2 class="fs-1 fs-xxl-2 fw-bolder">Start your next project with us</h2>
-                        <p class="mb-4 text-900">Join the talented group of artists and imaginators</p><a class="btn hover-top btn-boots-warning" href="#!">Join Boots5 </a>
+                        <h2 class="fs-1 fs-xxl-2 fw-bolder">پروژه ی بعدیتون رو با ما شروع کنید</h2>
+                        <!-- <p class="mb-4 text-900">Join the talented group of artists and imaginators</p>--><br><a class="btn hover-top btn-boots-warning" href="#contact">تماس با داده فراز</a>
                       </div>
                     </div>
                   </div>
@@ -205,10 +187,10 @@
                     <div class="card-body py-3">
                       <div class="row">
                         <div class="col-lg-6 text-center text-lg-start">
-                          <p class="fs--1 my-2 fw-bold text-gradient-blue-soft">All rights Reserved © Your Company, 2021</p>
+                          <p class="fs--1 my-2 fw-bold text-gradient-blue-soft">تمامی حقوق متعلق به داده فراز میباشد</p>
                         </div>
                         <div class="col-lg-6 d-lg-flex align-self-center justify-content-end text-center">
-                          <p class="fs--1 mb-0 text-gradient-blue-soft">Made with <svg class="svg-inline--fa fa-heart fa-w-16 mx-1 text-primary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <span class="fas fa-heart mx-1 text-primary"></span> Font Awesome fontawesome.com -->by<a href="https://themewagon.com/"> Themewagon</a></p>
+                          <p class="fs--1 mb-0 text-gradient-blue-soft">ساخته شده با <svg class="svg-inline--fa fa-heart fa-w-16 mx-1 text-primary" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <span class="fas fa-heart mx-1 text-primary"></span> Font Awesome fontawesome.com --></p>
                         </div>
                       </div>
                     </div>
@@ -376,10 +358,10 @@ possible delay between ideapossible delay between idea</p>
                         <div class="card-body py-3">
                           <div class="row">
                             <div class="col-lg-6 text-center text-lg-start">
-                              <p class="fs--1 my-2 fw-bold text-gradient-danger-soft">All rights Reserved © Your Company, 2021</p>
+                            <p dir="rtl" class="fs--1 mb-0 text-gradient-danger-soft">ساخته شده با  <svg class="svg-inline--fa fa-heart fa-w-16 mx-1 text-danger" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <span class="fas fa-heart mx-1 text-danger"></span> Font Awesome fontawesome.com --></p>
                             </div>
                             <div class="col-lg-6 d-lg-flex align-self-center justify-content-end text-center">
-                              <p class="fs--1 mb-0 text-gradient-danger-soft">Made with <svg class="svg-inline--fa fa-heart fa-w-16 mx-1 text-danger" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <span class="fas fa-heart mx-1 text-danger"></span> Font Awesome fontawesome.com -->by<a href="https://themewagon.com/"> Themewagon</a></p>
+                            <p class="fs--1 my-2 fw-bold text-gradient-danger-soft">تمامی حقوق متعلق به داده فراز میباشد</p>  
                             </div>
                           </div>
                         </div>
@@ -583,7 +565,7 @@ possible delay between ideapossible delay between idea</p>
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section class="page p-0 d-none" id="contact">
+      <section class="page p-0 d-none" id="contact" style="text-align: right;">
         <div class="container-fluid">
           <div class="top-0 w-100">
             <div class="row">
@@ -595,28 +577,29 @@ possible delay between ideapossible delay between idea</p>
                     <div class="row justify-content-center pb-5">
                       <div class="col-sm-9 col-lg-6">
                         <div class="text-center mb-5 mb-lg-6">
-                          <h2><span class="fw-medium">Get In </span>Touch</h2>
+                          <h2><span class="fw-medium">با ما </span>تماس بگیرید</h2>
                         </div>
-                        <h4>Connect with us</h4>
-                        <p class="mb-7">Having the shortest possible delay between idea and launch is crucial<br class="d-none d-xxl-block">in business. </p>
+                        <h4>ارتباط با ما</h4>
+                        <p class="mb-7">در تجارت داشتن کوتاه ترین تاخیر بین ایده و راه اندازی بسیار حائز اهمیت است</p>
                         <div class="d-flex align-items-center mb-2">
                           <div class="icon icon-warning shadow-1"><svg class="svg-inline--fa fa-phone fa-w-16 fs-1" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><!-- <i class="fas fa-phone fs-1"></i> Font Awesome fontawesome.com --></div>
                           <div class="flex-1 ms-3">
-                            <p class="fw-bold mb-0 text-gradient-orange-1"><a href="tel:+880124332334">+880124332334</a></p>
+                            <p class="fw-bold mb-0 text-gradient-orange-1"><a href="tel:+989146528873">+989146528873</a></p>
                           </div>
                         </div>
                         <div class="d-flex align-items-center mb-2">
                           <div class="icon icon-warning shadow-2"><svg class="svg-inline--fa fa-envelope fa-w-16 fs-1" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg><!-- <i class="fas fa-envelope fs-1"></i> Font Awesome fontawesome.com --></div>
                           <div class="flex-1 ms-3">
-                            <p class="fw-bold mb-0 text-gradient-orange-2"> <a href="mailto:mail.something@email.com">mail.something@email.com </a></p>
+                            <p class="fw-bold mb-0 text-gradient-orange-2"> <a href="mailto:mahdimosazadeh1997@gmail.com">mahdimosazadeh1997@gmail.com </a></p>
                           </div>
                         </div>
                         <div class="d-flex align-items-center">
                           <div class="icon icon-warning fs-2 shadow-3"><svg class="svg-inline--fa fa-map-marker-alt fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="map-marker-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg><!-- <i class="fas fa-map-marker-alt"></i> Font Awesome fontawesome.com --></div>
                           <div class="flex-1 ms-3">
-                            <p class="fw-bold text-gradient-orange-3 mb-0">35 King Street Bristol, BS1 4DZ, Perks Heights</p>
+                            <p class="fw-bold text-gradient-orange-3 mb-0">تبریز - چهارراه پاستور قدیم - بن بست بنفشه</p>
                           </div>
                         </div>
+                        <!--
                         <hr class="my-6 text-200">
                         <div class="text-center mb-5 mb-lg-6">
                           <h2 class="mb-5">Follow </h2>
@@ -628,10 +611,23 @@ possible delay between ideapossible delay between idea</p>
                             <li class="list-inline-item mx-2"><a href="#!"><img src="Boots5/google-plus.png" alt="..."></a></li>
                           </ul>
                         </div>
+                        -->
                         <hr class="my-6 text-200">
-                        <h4>Drop us a line</h4>
-                        <p class="mb-7">Our team are eagerly waiting to help you growing your business. Please feel free to contact with us.</p>
-                        <form class="row g-4" data-form="data-form" onsubmit="return false"><label class="form-label text-700" for="inputName"><svg class="svg-inline--fa fa-user fa-w-14 me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="user" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z"></path></svg><!-- <i class="fas fa-user me-2"></i> Font Awesome fontawesome.com -->NAME</label><input class="form-control form-boots-control mt-0" id="inputName" type="text" name="name"><label class="form-label text-700" for="inputEmail4"> <svg class="svg-inline--fa fa-envelope fa-w-16 me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg><!-- <i class="fas fa-envelope me-2"></i> Font Awesome fontawesome.com -->YOUR EMAIL</label><input class="form-control form-boots-control mt-0" id="inputEmail4" type="email" name="email"><label class="form-label text-700" for="validationTextarea"> <svg class="svg-inline--fa fa-pen fa-w-16 me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="pen" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M290.74 93.24l128.02 128.02-277.99 277.99-114.14 12.6C11.35 513.54-1.56 500.62.14 485.34l12.7-114.22 277.9-277.88zm207.2-19.06l-60.11-60.11c-18.75-18.75-49.16-18.75-67.91 0l-56.55 56.55 128.02 128.02 56.55-56.55c18.75-18.76 18.75-49.16 0-67.91z"></path></svg><!-- <i class="fas fa-pen me-2"></i> Font Awesome fontawesome.com -->MESSAGE</label><textarea class="form-control is-invalid border-400 form-boots-control mt-0" id="validationTextarea" placeholder="Message" rows="6" cols="50" required="required" name="message"> </textarea><button class="btn btn-boots-warning w-100 mt-5" type="submit">Send</button>
+                        <h4>برای تماس تامل نکن</h4>
+                        <p class="mb-7">تیم ما مشتاقانه منتظر است تا به شما در رشد کسب و کارتان کمک کند. لطفا در صورت تمایل با ما تماس بگیرید</p>
+                        <form class="row g-4" data-form="data-form" onsubmit="return false">
+                          <label class="form-label text-700" for="inputName" style="font-family: iranFamily;">
+                            نام <svg class="svg-inline--fa fa-user fa-w-14 me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="user" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z"></path></svg>
+                            </label>
+                             <input class="form-control form-boots-control mt-0" id="inputName" type="text" name="name">
+                             
+                             <label class="form-label text-700" for="inputEmail4" style="font-family: iranFamily;">ایمیل <svg class="svg-inline--fa fa-envelope fa-w-16 me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg></label>
+                            <input class="form-control form-boots-control mt-0" id="inputEmail4" type="email" name="email">
+                            
+                            <label class="form-label text-700" for="validationTextarea" style="font-family: iranFamily;">پیام <svg class="svg-inline--fa fa-pen fa-w-16 me-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="pen" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M290.74 93.24l128.02 128.02-277.99 277.99-114.14 12.6C11.35 513.54-1.56 500.62.14 485.34l12.7-114.22 277.9-277.88zm207.2-19.06l-60.11-60.11c-18.75-18.75-49.16-18.75-67.91 0l-56.55 56.55 128.02 128.02 56.55-56.55c18.75-18.76 18.75-49.16 0-67.91z"></path></svg></label>
+                              
+                              
+                              <textarea class="form-control is-invalid border-400 form-boots-control mt-0" id="validationTextarea" placeholder="Message" rows="6" cols="50" required="required" name="message"> </textarea><button class="btn btn-boots-warning w-100 mt-5" type="submit">Send</button>
                           <div class="feedback"> </div>
                         </form>
                       </div>
