@@ -245,28 +245,28 @@
                   </div>
                 </div>
                 <div class="row py-7 justify-content-center">
-                  <h2 class="mb-4 text-center"><span class="fw-medium">تعرفه های </span>استاندارد طراحی سایت</h2>
+                  <h2 class="mb-4 text-center"><span class="fw-medium">خدمات </span>استاندارد داده فراز</h2>
                   <div class="col-sm-6 col-xl-4 pt-4 px-md-2">
                     <div class="card card-span h-100 bg-white" style="border-radius:1rem;">
                       <div class="card-body d-flex flex-column justify-content-around px-xl-4 px-xxl-5">
                         <div class="text-center">
                           <h2 class="fs-lg-2 fx-xxl-4 text-800 my-3">پایه</h2>
-                          <h2 class="mb-3 fs-lg-2 fs-xxl-2 text-gradient-blue" style="font-size: 10px;">+8.000.000</h2>
-                          <p>لندینگ | رزومه | معرفی محصول | معرفی شرکت</p>
+                          <h2 class="mb-3 fs-lg-2 fs-xxl-2 text-gradient-blue" style="font-size: 10px;">+9.500.000</h2>
+                          <p>اولین گامتان برای حضور آنلاین</p>
                         </div>
                         <ul class="list-unstyled ps-5 ps-lg-0 ps-xl-2 ps-xxl-2" dir="rtl">
-                          <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
+                        <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> تک صفحه</li>
-                          <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
-                                <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> وبلاگ</li>
+                              </svg></span> طراحی سایت</li>
                           <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
                               </svg></span> سئو اولیه</li>
                           <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> پنل اختصاصی</li>
+                              </svg></span> پشتیبانی فنی</li>
+                              <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
+                                <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
+                              </svg></span> دامنه رایگان</li>
                         </ul>
                         
                       </div>
@@ -277,28 +277,25 @@
                       <div class="card-body d-flex flex-column justify-content-around px-xl-4 px-xxl-5">
                         <div class="text-center">
                           <h2 class="fs-lg-2 fx-xxl-5 text-800 my-3">حرفه ای</h2>
-                          <h2 class="mb-3 fs-lg-2 fs-xxl-2 text-gradient-pink-2">+25.000.000</h2>
-                          <p>چند صفحه | فروشگاهی | شرکت های بزرگ</p>
+                          <h2 class="mb-3 fs-lg-2 fs-xxl-2 text-gradient-pink-2">+29.000.000</h2>
+                          <p>ارتقای برند شما به سطحی بالاتر</p>
                         </div>
                         <ul class="list-unstyled ps-5 ps-lg-0 my-4 ps-xl-2 ps-xxl-2" dir="rtl"> 
                           <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> چند صفحه ای</li>
+                              </svg></span> تمام پک کسب و کار</li>
                           <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> نماد الکترونیک</li>
+                              </svg></span> مدیریت انیستاگرام</li>
                           <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> فروشگاه سفارشی</li>
+                              </svg></span> طراحی لوگو</li>
                               <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> سئو داخلی</li>
+                              </svg></span> برندینگ</li>
                               <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> پنل اختصاصی</li>
-                              <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
-                                <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> هر امکانات دیگه</li>
+                              </svg></span> عکاسی تبلیغاتی</li>
                         </ul>
                       </div>
                     </div>
@@ -308,22 +305,25 @@
                       <div class="card-body d-flex flex-column justify-content-around px-xl-4 px-xxl-5">
                         <div class="text-center">
                           <h2 class="fs-lg-2 fx-xxl-4 text-800 my-3">کسب و کار</h2>
-                          <h2 class="mb-3 fs-lg-2 fs-xxl-2 text-gradient-blue">+15.000.000</h2>
-                          <p>چند صفحه ای | شرکتی | کسب و کارهای متوسط</p>
+                          <h2 class="mb-3 fs-lg-2 fs-xxl-2 text-gradient-blue">+17.000.000</h2>
+                          <p>راه اندازی کسب و کارتان</p>
                         </div>
                         <ul class="list-unstyled my-4 ps-5 ps-lg-0 ps-xl-2 ps-xxl-2" dir="rtl">
                           <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> چند صفحه ای</li>
+                              </svg></span> طراحی سایت</li>
                           <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> فروشگاه کوچک</li>
-                          <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
+                              </svg></span> نماد الکترونیک</li>
+                              <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
-                              </svg></span> سئو داخلی</li>
-                          <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
+                              </svg></span> سئو داخلی و خارجی</li>
+                              <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
                                 <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
                               </svg></span> پنل اختصاصی</li>
+                              <li class="mb-3"><span class="me-2"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check-circle" role="img"  viewBox="0 0 512 512" data-fa-i2svg="">
+                                <path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path>
+                              </svg></span> درگاه پرداخت</li>
                         </ul>
                         
                       </div>
@@ -806,38 +806,41 @@
                   <h2 class="mt-4 mt-lg-0"><span class="fw-medium">مطالب </span>اخیر</h2>
                 </div>
                 <div class="row justify-content-center g-3 py-3" style="text-align: right;">
+                  
                   <div class="col-sm-6 col-xl-5">
                     <div class="card h-100"><img class="blog-img" src="resources/blog-01.jpg" >
                       <div class="card-img-overlay card-overlay-1">
-                        <h4 class="fs-lg-0 fs-xxl-1 text-white">قلب کسب و کار آنلاین شما</h4><a class="btn btn-link px-0" href="#!" style="float: left;">مطالعه بیشتر</a>
+                        <h4 class="fs-lg-0 fs-xxl-1 text-white">قلب کسب و کار آنلاین شما</h4><a class="stretched-link" href="#" data-bs-toggle="modal" data-bs-target="#one">مطالعه بیشتر</a>
                       </div>
                     </div>
                   </div>
+
+
                   <div class="col-sm-6 col-xl-5">
                     <div class="card h-100"><img class="blog-img" src="resources/blog-02.jpg" alt="blog">
                       <div class="card-img-overlay card-overlay-1">
-                        <h4 class="fs-lg-0 fs-xxl-1 text-white">سئو و  همه چیزی که دربارش باید بدونید</h4><a class="btn btn-link px-0" href="#!">مطالعه بیشتر</a>
+                        <h4 class="fs-lg-0 fs-xxl-1 text-white">سئو و  همه چیزی که دربارش باید بدونید</h4><a class="stretched-link" href="#" data-bs-toggle="modal" data-bs-target="#two">مطالعه بیشتر</a>
                       </div>
                     </div>
                   </div>
                   <div class="col-sm-6 col-xl-5">
                     <div class="card h-100"><img class="blog-img" src="resources/blog-03.jpg" alt="blog">
                       <div class="card-img-overlay card-overlay-1">
-                        <h4 class="fs-lg-0 fs-xxl-1 text-white">یک سایت چه امکاناتی باید داشته باشد ؟</h4><a class="btn btn-link px-0" href="#!">مطالعه بیشتر</a>
+                        <h4 class="fs-lg-0 fs-xxl-1 text-white">یک سایت چه امکاناتی باید داشته باشد ؟</h4><a class="stretched-link" href="#" data-bs-toggle="modal" data-bs-target="#three">مطالعه بیشتر</a>
                       </div>
                     </div>
                   </div>
                   <div class="col-sm-6 col-xl-5">
                     <div class="card h-100"><img class="blog-img" src="resources/blog-04.jpg" alt="blog">
                       <div class="card-img-overlay card-overlay-1">
-                        <h4 class="fs-lg-0 fs-xxl-1 text-white">اصلی ترین تکنیک های فروش کدامند ؟</h4><a class="btn btn-link px-0" href="#!">مطالعه بیشتر</a>
+                        <h4 class="fs-lg-0 fs-xxl-1 text-white">اصلی ترین تکنیک های فروش کدامند ؟</h4><a class="stretched-link" href="#" data-bs-toggle="modal" data-bs-target="#four">مطالعه بیشتر</a>
                       </div>
                     </div>
                   </div>
                   <div class="col-sm-6 col-xl-5">
                     <div class="card h-100"><img class="blog-img" src="resources/blog-05.jpg" alt="blog">
                       <div class="card-img-overlay card-overlay-1">
-                        <h4 class="fs-lg-0 fs-xxl-1 text-white">تکنیک جستجو در گوگل که نمیدانید</h4><a class="btn btn-link px-0" href="#!">مطالیعه بیشتر
+                        <h4 class="fs-lg-0 fs-xxl-1 text-white">تکنیک جستجو در گوگل که نمیدانید</h4><a class="stretched-link" href="#" data-bs-toggle="modal" data-bs-target="#five">مطالعه بیشتر</a> 
                         </a>
                       </div>
                     </div>
@@ -845,7 +848,7 @@
                   <div class="col-sm-6 col-xl-5">
                     <div class="card h-100"><img class="blog-img" src="resources/blog-06.jpg" alt="blog">
                       <div class="card-img-overlay card-overlay-1">
-                        <h4 class="fs-lg-0 fs-xxl-1 text-white">روش های تحلیل فروش</h4><a class="btn btn-link px-0" href="#!">مطالعه بیشتر</a>
+                        <h4 class="fs-lg-0 fs-xxl-1 text-white">روش های تحلیل فروش حرفه ای</h4><a class="stretched-link" href="#" data-bs-toggle="modal" data-bs-target="#six">مطالعه بیشتر</a>
                       </div>
                     </div>
                   </div>
@@ -1410,6 +1413,520 @@
       </div>
     </div>
   </div>
+
+
+
+
+     <!-- Blog One ===============================================-->
+     <div class="modal fade" id="one" tabindex="-1" data-bs-keyboard="false" aria-labelledby="modalFullscreen" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <div class="d-flex justify-content-end border-bottom-0 py-5 px-5">
+          <button class="btn-close position-fixed z-index-1" type="button" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <section style="padding-top: 0;padding-bottom: 0;">
+          <div class="container-fluid">
+            <div class="row justify-content-center pb-5">
+              <div >
+                <div class="modal-body" style="text-align: right;">
+                  <h2>قلب کسب و کار آنلاین: وب سایتی که جان می‌بخشد</h2>
+                  <p>در دنیای دیجیتال امروزی، کسب‌وکارها برای حضور مؤثر و رقابت‌پذیری، به یک پایگاه آنلاین قوی نیاز دارند. این پایگاه، چیزی نیست جز وب‌سایت. وب‌سایت، همانند قلب یک موجود زنده، نقش محوری را در حیات و پویایی یک کسب‌وکار آنلاین ایفا می‌کند. در این مقاله، به بررسی اهمیت وب‌سایت به عنوان قلب کسب‌وکار آنلاین و دلایل این اهمیت می‌پردازیم.</p>
+                  <h4>چرا وب‌سایت قلب کسب‌وکار آنلاین است؟</h4>
+                  <ul dir="rtl">
+                    <li>
+                      <strong>نقطه تماس اولیه با مشتریان</strong><p>اولین تعامل اکثر مشتریان با یک کسب‌وکار، از طریق وب‌سایت صورت می‌گیرد. یک وب‌سایت حرفه‌ای و جذاب، اولین برداشت مشتریان را شکل می‌دهد و می‌تواند تأثیر بسزایی بر تصمیم‌گیری آن‌ها برای خرید یا ادامه تعامل با کسب‌وکار داشته باشد.</p>
+                    </li>
+                    <li>
+                      <strong>ویترین محصولات و خدمات</strong><p>وب‌سایت، ویترین مجازی کسب‌وکار است که در آن محصولات و خدمات به بهترین شکل ممکن به نمایش گذاشته می‌شوند. مشتریان می‌توانند به راحتی، اطلاعات مورد نیاز خود را در مورد محصولات و خدمات کسب‌وکار پیدا کنند و با آن‌ها آشنا شوند.</p>
+                    </li>
+                    <li>
+                      <strong>ابزار بازاریابی قدرتمند</strong><p>وب‌سایت، یک ابزار بازاریابی بسیار قدرتمند است. با استفاده از تکنیک‌های مختلف بازاریابی دیجیتال مانند سئو، بازاریابی محتوا، و بازاریابی ایمیلی، می‌توان ترافیک وب‌سایت را افزایش داد و مشتریان بالقوه را به مشتریان بالفعل تبدیل کرد.</p>
+                    </li>
+                    <li>
+                      <strong>ایجاد برند و اعتماد</strong><p>یک وب‌سایت حرفه‌ای و کاربرپسند، به ایجاد یک برند قوی و قابل اعتماد کمک می‌کند. طراحی زیبا، محتوای باکیفیت، و سرعت بالای بارگذاری وب‌سایت، همگی در ایجاد حس اعتماد در مشتریان نقش دارند.</p>
+                    </li>
+                    <li>
+                      <strong>فروشگاه آنلاین</strong><p>بسیاری از کسب‌وکارهای آنلاین، از وب‌سایت خود به عنوان یک فروشگاه آنلاین استفاده می‌کنند. این امکان را به مشتریان می‌دهد تا محصولات را به صورت آنلاین خریداری کنند و در هر زمان و مکانی به آن‌ها دسترسی داشته باشند.</p>
+                    </li>
+                    <li>
+                      <strong>جمع‌آوری داده‌ها و تحلیل رفتار مشتریان</strong><p>وب‌سایت، امکان جمع‌آوری داده‌های ارزشمندی در مورد رفتار مشتریان را فراهم می‌کند. با تحلیل این داده‌ها، می‌توان به درک عمیق‌تری از نیازها و خواسته‌های مشتریان دست یافت و استراتژی‌های کسب‌وکار را بر اساس آن تنظیم کرد.</p>
+                    </li>
+                    <li>
+                      <strong>ارتباط با مشتریان</strong><p>وب‌سایت، یک کانال ارتباطی موثر بین کسب‌وکار و مشتریان است. از طریق بخش‌های مختلفی مانند بخش تماس با ما، وبلاگ، و شبکه‌های اجتماعی، می‌توان با مشتریان ارتباط برقرار کرد، به سوالات آن‌ها پاسخ داد و بازخورد آن‌ها را دریافت کرد.</p>
+                    </li>
+                  </ul>
+                  <h4>ویژگی‌های یک وب‌سایت موفق</h4>
+                  <ul dir="rtl">
+                        <li>
+                          <strong>طراحی زیبا و کاربرپسند:</strong><p>طراحی وب‌سایت باید ساده، زیبا و در عین حال کاربردی باشد. استفاده از رنگ‌های مناسب، فونت‌های خوانا و چیدمان منطقی عناصر، از جمله مواردی است که در طراحی یک وب‌سایت خوب باید به آن‌ها توجه کرد.</p>
+                        </li>
+                        <li>
+                          <strong>سرعت بالای بارگذاری</strong><p>سرعت بالای بارگذاری وب‌سایت، از مهم‌ترین عوامل تأثیرگذار بر تجربه کاربری است. یک وب‌سایت کند، می‌تواند کاربران را از خود دور کند.</p>
+                        </li>
+                        <li>
+                          <strong>محتوای باکیفیت و مفید</strong><p>تولید محتوای باکیفیت و مفید، یکی از کلیدهای موفقیت یک وب‌سایت است. محتوا باید به زبان ساده و روان نوشته شود و پاسخگوی نیازهای کاربران باشد.</p>
+                        </li>
+                        <li>
+                          <strong>بهینه‌سازی برای موتورهای جستجو (SEO)</strong><p>بهینه‌سازی وب‌سایت برای موتورهای جستجو، به افزایش دیده شدن وب‌سایت در نتایج جستجو کمک می‌کند.</p>
+                        </li>
+                        <li>
+                          <strong>واکنش‌گرا بودن</strong><p>وب‌سایت باید در تمامی دستگاه‌ها (کامپیوتر، تبلت، موبایل) به خوبی نمایش داده شود.</p>
+                        </li>
+                        <li>
+                          <strong>امنیت بالا</strong><p>امنیت وب‌سایت، از اهمیت بسیار بالایی برخوردار است. باید از تمامی اقدامات امنیتی برای حفاظت از اطلاعات کاربران و جلوگیری از هک شدن وب‌سایت استفاده کرد.</p>
+                        </li>
+                  </ul>
+                  <h4>نتیجه گیری</h4>
+                  <p>همانطور که قلب برای بدن اهمیت دارد، وب‌سایت نیز برای کسب‌وکار آنلاین از اهمیت ویژه‌ای برخوردار است. یک وب‌سایت حرفه‌ای و کارآمد، می‌تواند به کسب‌وکار شما در دستیابی به اهدافش کمک شایانی کند. بنابراین، سرمایه‌گذاری در طراحی و توسعه یک وب‌سایت قوی، یکی از مهم‌ترین تصمیماتی است که یک کسب‌وکار آنلاین می‌تواند اتخاذ کند.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Blog Two ===============================================-->
+  <div class="modal fade" id="two" tabindex="-1" data-bs-keyboard="false" aria-labelledby="modalFullscreen" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <div class="d-flex justify-content-end border-bottom-0 py-5 px-5">
+          <button class="btn-close position-fixed z-index-1" type="button" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <section style="padding-top: 0;padding-bottom: 0;">
+          <div class="container-fluid">
+            <div class="row justify-content-center pb-5">
+              <div >
+                <div class="modal-body" style="text-align: right;">
+                  <h2>راهنمای جامع بهینه سازی یا همان سئو</h2>
+                  <p>سئو (SEO) مخفف عبارت Search Engine Optimization است و به معنای بهینه‌سازی وب‌سایت برای موتورهای جستجو مانند گوگل است. هدف از سئو این است که سایت شما در نتایج جستجوی ارگانیک موتورهای جستجو در رتبه‌های بالاتر قرار گیرد و در نتیجه ترافیک بیشتری به سایت شما هدایت شود.</p>
+                  <h4>چرا سئو مهم است؟</h4>
+                  <ul dir="rtl">
+                      <li>
+                        <strong>افزایش بازدید سایت</strong><p>سئو یکی از موثرترین روش‌ها برای افزایش بازدید طبیعی سایت است</p>
+                      </li>
+                      <li>
+                        <strong>افزایش شناخته شدن برند</strong><p>با قرار گرفتن در رتبه‌های بالای جستجو، برند شما بیشتر دیده شده و شناخته می‌شود.</p>
+                      </li>
+                      <li>
+                        <strong>افزایش فروش</strong><p>ترافیک بیشتر به معنای فرصت بیشتر برای تبدیل بازدیدکنندگان به مشتری است.</p>
+                      </li>
+                      <li>
+                        <strong>کاهش هزینه تبلیغات</strong><p>سئو نسبت به تبلیغات پولی، هزینه کمتری دارد.</p>
+                      </li>
+                  </ul>
+                  <h4>اصول اولیه سئو</h4>
+                  <ul dir="rtl">
+                        <li>
+                          <strong>کلمات کلیدی</strong><p>کلمات کلیدی عباراتی هستند که کاربران برای جستجوی محصولات یا خدماتی که شما ارائه می‌دهید در موتورهای جستجو وارد می‌کنند. انتخاب کلمات کلیدی مناسب و استفاده صحیح از آن‌ها در محتوا بسیار مهم است.</p>
+                        </li>
+                        <li>
+                          <strong>محتوای باکیفیت</strong><p>ایجاد محتوای ارزشمند، مرتبط و به روز یکی از مهم‌ترین عوامل رتبه‌بندی در گوگل است.</p>
+                        </li>
+                        <li>
+                          <strong>ساختار سایت</strong><p>ساختار سایت باید ساده و قابل درک باشد تا موتورهای جستجو به راحتی بتوانند صفحات سایت شما را ایندکس کنند.</p>
+                        </li>
+                        <li>
+                          <strong>بهینه‌سازی فنی</strong><p>عوامل فنی مانند سرعت بارگذاری سایت، موبایل فرندلی بودن و ساختار URL‌ها نیز بر روی رتبه‌بندی سایت تاثیرگذار هستند.</p>
+                        </li>
+                        <li>
+                          <strong>بک لینک ها</strong><p>ک لینک‌ها لینک‌هایی هستند که از سایت‌های دیگر به سایت شما اشاره می‌کنند. بک لینک‌های باکیفیت به بهبود رتبه سایت کمک می‌کنند.</p>
+                        </li>
+                  </ul>
+                  <h4>انواع سئو کدامند ؟</h4>
+                  <ul dir="rtl">
+                    <li>
+                      <strong>سئو کلاه سفید</strong><p>استفاده از روش‌های مجاز و استاندارد برای بهبود رتبه سایت.</p>
+                    </li>
+                    <li>
+                      <strong>سئو کلاه سیاه</strong><p>استفاده از روش‌های غیرمجاز و خلاف قوانین گوگل برای بهبود رتبه سایت.</p>
+                    </li>
+                    <li>
+                      <strong>سئو محلی</strong><p>بهینه‌سازی سایت برای کسب‌وکارهای محلی و افزایش دیده شدن در جستجوهای محلی.</p>
+                    </li>
+                  </ul>
+                  <h4>مراحل کلی انجام سئو</h4>
+                  <ol dir="rtl">
+                        <li>
+                          <strong>تحقیق کلمات کلیدی</strong><p>شناسایی کلمات کلیدی مرتبط با کسب‌وکار شما و انتخاب کلمات کلیدی با حجم جستجوی بالا و رقابت کم.</p>
+                        </li>
+                        <li>
+                          <strong>آنالیز رقبا</strong><p>بررسی سایت‌های رقیب و شناسایی نقاط قوت و ضعف آن‌ها.</p>
+                        </li>
+                        <li>
+                          <strong>بهینه‌سازی محتوا</strong><p>تولید محتوای باکیفیت و مرتبط با کلمات کلیدی انتخاب شده.</p>
+                        </li>
+                        <li>
+                          <strong>بهینه‌سازی ساختار سایت</strong><p>بهبود ساختار سایت و بهبود تجربه کاربری.</p>
+                        </li>
+                        <li>
+                          <strong>ساخت بک لینک</strong><p> ایجاد بک لینک‌های باکیفیت از سایت‌های معتبر.</p>
+                        </li>
+                        <li>
+                          <strong>محتوای تصویری</strong><p>استفاده از تصاویر با کیفیت و بهینه سازی آن‌ها برای موتورهای جستجو.
+                          </p>
+                        </li>
+                        <li>
+                          <strong>بهینه سازی برای موبایل</strong><p>اطمینان حاصل کنید که سایت شما برای نمایش در دستگاه‌های موبایل بهینه شده است.</p>
+                        </li>
+                  </ol>
+                  <h4>ابزارهای سئو</h4>
+                  <ul dir="rtl">
+                    <li>
+                      <strong>Google Search Console</strong><p>ابزاری رایگان از گوگل برای بررسی وضعیت سایت در موتور جستجو.</p>
+                    </li>
+                    <li>
+                      <strong>Google Analytics</strong><p>ابزاری برای تحلیل ترافیک سایت و رفتار کاربران.</p>
+                    </li>
+                    <li>
+                      <strong>Ahrefs</strong><p>ابزاری برای بررسی بک لینک‌ها، کلمات کلیدی و رقبا.</p>
+                    </li>
+                    <li>
+                      <strong>SEMrush</strong><p>ابزاری برای بررسی کلمات کلیدی، رقبا و بک لینک‌ها.</p>
+                    </li>
+                    <li>
+                      <strong>Moz</strong><p>ابزاری برای بررسی بک لینک‌ها، کلمات کلیدی و سئو فنی.</p>
+                    </li>
+                  </ul>
+                  <h4>نکات مهم در سئو</h4>
+                  <ul dir="rtl">
+                        <li>
+                          <strong>سئو یک فرآیند طولانی مدت است</strong><p>بهبود رتبه سایت نیاز به زمان و تلاش مداوم دارد.</p>
+                        </li>
+                        <li>
+                          <strong>الگوریتم‌های گوگل دائماً در حال تغییر هستند</strong><p>بنابراین باید به طور مداوم از آخرین تغییرات آگاه باشید و استراتژی‌های خود را بر اساس آن‌ها تنظیم کنید.</p>
+                        </li>
+                        <li>
+                          <strong>سئو تنها یک بخش از بازاریابی دیجیتال است</strong><p>برای موفقیت در کسب‌وکار آنلاین، باید از سایر ابزارهای بازاریابی دیجیتال مانند تبلیغات آنلاین، شبکه‌های اجتماعی و ایمیل مارکتینگ نیز استفاده کنید.</p>
+                        </li>
+                  </ul>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+    <!-- Blog Three ===============================================-->
+    <div class="modal fade" id="three" tabindex="-1" data-bs-keyboard="false" aria-labelledby="modalFullscreen" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <div class="d-flex justify-content-end border-bottom-0 py-5 px-5">
+          <button class="btn-close position-fixed z-index-1" type="button" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <section style="padding-top: 0;padding-bottom: 0;">
+          <div class="container-fluid">
+            <div class="row justify-content-center pb-5">
+              <div >
+                <div class="modal-body" style="text-align: right;">
+                  <h2>امکانات ضروری یک وبسایت خوب</h2>
+                  <p>یک وبسایت خوب، صرف نظر از نوع کسب و کار و هدف آن، باید مجموعه‌ای از امکانات اساسی را داشته باشد تا بتواند کاربران را جذب کرده و به آن‌ها تجربه کاربری خوبی ارائه دهد. در زیر به برخی از مهم‌ترین این امکانات اشاره شده است</p>
+                  <ol dir="rtl">
+                  <li>
+                      <strong>طراحی جذاب و کاربرپسند</strong>
+                      <ul>
+                        <li>
+                          <p>رابط کاربری ساده و شهودی</p>
+                        </li>
+                        <li>
+                          <p>طراحی واکنش‌گرا (Responsive) برای نمایش مناسب در تمامی دستگاه‌ها</p>
+                        </li>
+                        <li>
+                          <p>استفاده از رنگ‌ها و فونت‌های مناسب</p>
+                        </li>
+                        <li>
+                          <p>چیدمان منظم و منطقی عناصر</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>سرعت بالا</strong>
+                      <ul>
+                        <li>
+                          <p>بهینه‌سازی سرعت بارگذاری صفحات</p>
+                        </li>
+                        <li>
+                          <p>کاهش حجم تصاویر و فایل‌های چندرسانه‌ای</p>
+                        </li>
+                        <li>
+                          <p>استفاده از کش</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>محتوای باکیفیت و مفید</strong>
+                      <ul>
+                        <li>
+                          <p>تولید محتوای ارزشمند و مرتبط با موضوع سایت</p>
+                        </li>
+                        <li>
+                          <p>به‌روزرسانی مداوم محتوا</p>
+                        </li>
+                        <li>
+                          <p>استفاده از کلمات کلیدی مناسب (SEO)</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>امنیت بالا</strong>
+                      <ul>
+                        <li>
+                          <p>استفاده از پروتکل HTTPS</p>
+                        </li>
+                        <li>
+                          <p>محافظت در برابر حملات هکری</p>
+                        </li>
+                        <li>
+                          <p>پشتیبان‌گیری منظم از داده‌ها</p>
+                        </li>
+                      </ul>
+                    </li>
+                    
+                    <li>
+                      <strong>قابلیت جستجو</strong>
+                      <ul>
+                        <li>
+                          <p>امکان جستجوی آسان در محتوای سایت</p>
+                        </li>
+                        <li>
+                          <p>استفاده از فیلترهای جستجو</p>
+                        </li>
+                        <li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>اطلاعات تماس</strong>
+                      <ul>
+                        <li>
+                          <p>درج اطلاعات تماس کامل و دقیق</p>
+                        </li>
+                        <li>
+                          <p>امکان تماس مستقیم یا ارسال پیام</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>نقشه سایت</strong>
+                      <ul>
+                        <li>
+                          <p>ارائه نقشه واضح و منظم از ساختار سایت</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>شبکه‌های اجتماعی</strong>
+                      <ul>
+                        <li>
+                          <p>ایجاد پروفایل در شبکه‌های اجتماعی محبوب</p>
+                        </li>
+                        <li>
+                          <p>اشتراک‌گذاری محتوا در شبکه‌های اجتماعی</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>رابط کاربری مناسب</strong>
+                      <ul>
+                        <li>
+                          <p>سهولت در استفاده از سایت</p>
+                        </li>
+                        <li>
+                          <p>امکان یافتن سریع اطلاعات مورد نظر</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>سازگاری با دستگاه‌های مختلف</strong>
+                      <ul>
+                        <li>
+                          <p>نمایش مناسب در موبایل، تبلت و دسکتاپ</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>بهینه‌سازی برای موتورهای جستجو (SEO)</strong>
+                      <ul>
+                        <li>
+                          <p>استفاده از کلمات کلیدی مناسب</p>
+                        </li>
+                        <li>
+                          <p>ساختار مناسب URLها</p>
+                        </li>
+                        <li>
+                          <p>تگ‌های عنوان و توضیحات مناسب</p>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li>
+                      <strong>امکانات اضافه نسبت به نوع کسب و کار</strong>
+                      <ul>
+                        <li>
+                          <p>فرم تماس</p>
+                        </li>
+                        <li>
+                          <p>فروشگاه آنلاین</p>
+                        </li>
+                        <li>
+                          <p>سیستم مدیریت محتوا (CMS)</p>
+                        </li>
+                        <li>
+                          <p>وبلاگ</p>
+                        </li>
+                      </ul>
+                    </li>
+                  </ol>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+      <!-- Blog Four ===============================================-->
+      <div class="modal fade" id="four" tabindex="-1" data-bs-keyboard="false" aria-labelledby="modalFullscreen" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <div class="d-flex justify-content-end border-bottom-0 py-5 px-5">
+          <button class="btn-close position-fixed z-index-1" type="button" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <section style="padding-top: 0;padding-bottom: 0;">
+          <div class="container-fluid">
+            <div class="row justify-content-center pb-5">
+              <div >
+                <div class="modal-body" style="text-align: right;">
+                  <h2>تکنیک‌های اصلی فروش آنلاین از طریق سایت و فضای آنلاین</h2>
+                  <p>فروش آنلاین به سرعت در حال رشد است و برای کسب موفقیت در این حوزه، نیازمند شناخت و اجرای تکنیک‌های موثر هستید. در ادامه برخی از مهم‌ترین این تکنیک‌ها را بررسی می‌کنیم:</p>
+                  <ol dir="rtl">
+                  <li>
+                          <p>بهینه‌سازی سایت برای موتورهای جستجو (SEO)</p>
+                          <ul>
+                          <li>
+                              <strong>کلمات کلیدی مناسب</strong><p>شناسایی و استفاده از کلمات کلیدی مرتبط با محصولات و خدمات شما، باعث می‌شود کاربران راحت‌تر شما را در موتورهای جستجو پیدا کنند.</p>
+                            </li>
+                            <li>
+                              <strong>ساختار سایت</strong><p>طراحی یک سایت کاربرپسند با ساختار منطقی، به موتورهای جستجو کمک می‌کند تا محتوای شما را بهتر درک کنند.</p>
+                            </li>
+                            <li>
+                              <strong>محتوای باکیفیت</strong><p>تولید محتوای ارزشمند و مرتبط با محصولات، مانند مقالات، ویدیوها و تصاویر، باعث افزایش اعتبار سایت شما و جذب مخاطب می‌شود.</p>
+                            </li>
+                          </ul>
+                        </li>
+
+                        <li>
+                          <p>بازاریابی محتوا</p>
+                          <ul>
+                          <li>
+                              <strong>بلاگ نویسی</strong><p>ایجاد یک وبلاگ و انتشار مقالات مرتبط با حوزه فعالیت شما، به شما کمک می‌کند تا به عنوان یک مرجع در نظر گرفته شوید و ترافیک سایت خود را افزایش دهید.</p>
+                            </li>
+                            <li>
+                              <strong>اینفوگرافیک</strong><p>استفاده از اینفوگرافیک‌ها برای نمایش اطلاعات به صورت بصری و جذاب، می‌تواند به اشتراک‌گذاری بیشتر محتوا کمک کند.</p>
+                            </li>
+                            <li>
+                              <strong>ویدیو مارکتینگ</strong><p>تولید و انتشار ویدیوهای آموزشی، معرفی محصولات و یا پشت صحنه کسب‌وکار، می‌تواند به شما در ایجاد ارتباط عمیق‌تر با مخاطبان کمک کند.</p>
+                            </li>
+                          </ul>
+                        </li>
+
+                        <li>
+                          <p>شبکه‌های اجتماعی</p>
+                          <ul>
+                          <li>
+                              <strong>انتخاب پلتفرم مناسب</strong><p>انتخاب شبکه‌های اجتماعی متناسب با مخاطب هدف شما، به شما کمک می‌کند تا به طور موثر با آن‌ها ارتباط برقرار کنید.</p>
+                            </li>
+                            <li>
+                              <strong>تولید محتوای جذاب</strong><p>انتشار محتواهای خلاقانه و تعاملی در شبکه‌های اجتماعی، باعث افزایش تعامل با مخاطبان و جذب مشتریان جدید می‌شود.</p>
+                            </li>
+                            <li>
+                              <strong>تبلیغات هدفمند</strong><p>استفاده از تبلیغات هدفمند در شبکه‌های اجتماعی، به شما امکان می‌دهد تا محصولات خود را به مخاطبان خاص نمایش دهید.</p>
+                            </li>
+                          </ul>
+                        </li>
+
+                        <li>
+                          <p>ایمیل مارکتینگ</p>
+                          <ul>
+                          <li>
+                              <strong>ایجاد لیست ایمیل</strong><p>جمع‌آوری آدرس ایمیل مخاطبان و ایجاد یک لیست ایمیل، به شما امکان می‌دهد تا با آن‌ها به صورت مستقیم ارتباط برقرار کنید.</p>
+                            </li>
+                            <li>
+                              <strong>ارسال ایمیل‌های هدفمند</strong><p>ارسال ایمیل‌های شخصی‌سازی شده و مرتبط با علایق مخاطبان، باعث افزایش نرخ باز شدن و کلیک ایمیل‌ها می‌شود.</p>
+                            </li>
+                            <li>
+                              <strong>خودکارسازی ایمیل‌ها</strong><p>استفاده از ابزارهای خودکارسازی ایمیل، به شما کمک می‌کند تا کمپین‌های ایمیل مارکتینگ خود را به صورت موثر مدیریت کنید.</p>
+                            </li>
+                          </ul>
+                        </li>
+
+                        <li>
+                          <p>تبلیغات آنلاین</p>
+                          <ul>
+                          <li>
+                              <strong>گوگل ادز</strong><p>استفاده از گوگل ادز برای نمایش تبلیغات در نتایج جستجوی گوگل، یکی از موثرترین روش‌های جذب مشتری آنلاین است.</p>
+                            </li>
+                            <li>
+                              <strong>تبلیغات نمایش</strong><p>نمایش تبلیغات تصویری در وب‌سایت‌های مختلف، به شما امکان می‌دهد تا برند خود را به مخاطبان بیشتری معرفی کنید.</p>
+                            </li>
+                            <li>
+                              <strong>تبلیغات شبکه‌های اجتماعی</strong><p>استفاده از تبلیغات در شبکه‌های اجتماعی برای رسیدن به مخاطبان هدف خود، به شما کمک می‌کند تا فروش خود را افزایش دهید.</p>
+                            </li>
+                          </ul>
+                        </li>
+
+                        <li>
+                          <p>فروش متقابل و فروش افزایشی</p>
+                          <ul>
+                          <li>
+                              <strong>فروش متقابل</strong><p>پیشنهاد محصولات مرتبط به مشتریانی که قصد خرید محصولی خاص را دارند.</p>
+                            </li>
+                            <li>
+                              <strong>فروش افزایشی</strong><p>پیشنهاد محصولات مکمل یا ارتقا دهنده به مشتریانی که قصد خرید محصولی را دارند.</p>
+                            </li>
+                          </ul>
+                        </li>
+
+                        <li>
+                          <p>تجربه کاربری عالی</p>
+                          <ul>
+                          <li>
+                              <strong>طراحی سایت کاربرپسند</strong><p>طراحی یک سایت ساده و آسان برای استفاده، به کاربران کمک می‌کند تا به راحتی محصولات مورد نظر خود را پیدا کنند و خرید کنند.</p>
+                            </li>
+                            <li>
+                              <strong>پرداخت امن</strong><p>فراهم کردن روش‌های پرداخت امن و متنوع، به افزایش اعتماد مشتریان کمک می‌کند.</p>
+                            </li>
+                            <li>
+                              <strong>خدمات پس از فروش</strong><p>ارائه خدمات پس از فروش خوب و پشتیبانی مشتری، به حفظ مشتریان وفادار کمک می‌کند.</p>
+                            </li>
+                          </ul>
+                        </li>
+
+                        <p>لطفا توجه داشته باشید که این موارد تنها بخشی از تکنیک‌های فروش آنلاین هستند و موفقیت در این حوزه، نیازمند شناخت عمیق از بازار، مخاطبان و رقبا است.</p>
+                  </ol>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
 
 
   <!-- ===============================================-->
